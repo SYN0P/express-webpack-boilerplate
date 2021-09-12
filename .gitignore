@@ -1,0 +1,13 @@
+# intellij
+.idea
+*.iml
+
+# nodejs
+node_modules
+.env
+
+# github
+.github
+
+#build
+public
